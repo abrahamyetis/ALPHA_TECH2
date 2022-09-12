@@ -1,0 +1,24 @@
+.banner {
+    background:url(./img/image-1/banner.jpeg) ;
+    background-size: cover;
+    padding-top:  20%;
+    padding-bottom: 20%;
+    height: 100vh;
+    color: blueviolet;
+}
+.circle {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    color: white;
+    background-color: red;
+    
+    
+}
+.circle i {
+    top: 30px;
+    position: relative;
+    
+}
